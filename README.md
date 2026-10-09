@@ -463,9 +463,9 @@ These enhancements can be introduced incrementally as the project progresses.
 
 ## 👨‍💻 Author
 
-**DP**
+**Prakirnakeshi Pragya**
 
-QA / Software Testing Professional
+Aspiring QA Engineer
 
 This project is part of my QA portfolio and demonstrates my practical understanding of manual testing, test case design, test documentation, and software quality assurance.
 
