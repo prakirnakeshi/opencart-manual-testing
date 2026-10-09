@@ -280,7 +280,6 @@ deliverables, risks, assumptions, and test execution strategy.
 The test plan is available in the following formats:
 
 - `Test-Plan/OpenCart-Test-Plan.pdf`
-- `Test-Plan/OpenCart-Test-Plan.docx`
 
 The PDF version is intended for convenient viewing, while the Word
 version can be used for future edits.
@@ -341,7 +340,6 @@ opencart-manual-testing/
 │
 ├── Test-Plan/
 │   ├── OpenCart-Test-Plan.pdf
-│   └── OpenCart-Test-Plan.docx
 │
 └── Test-Documentation/
     └── OpenCart_QA_Test_Cases.xlsx
