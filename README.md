@@ -22,8 +22,7 @@ test execution tracking, and test traceability.
 | Happy Path Test Cases | 37 |
 | Negative Test Cases | 13 |
 | Test Documentation | Microsoft Excel |
-| Test Plan | PDF and Word |
-| Version Control | Git and GitHub |
+| Test Plan | PDF |
 
 ---
 
